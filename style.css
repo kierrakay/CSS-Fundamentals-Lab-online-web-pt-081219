@@ -32,7 +32,7 @@ figcaption {
   /*So margin: auto centers the <p> block inside the browser window and text-align: center centers the text inside the <p> block*/
 }
 
-footer details{
+footer > details{
   display: block;
  background: green;
  float: left;
