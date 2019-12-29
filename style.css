@@ -39,7 +39,7 @@ footer {
 div {
    background: red;
  text-align: center;
-  
+  float: left;
 }
 
 
