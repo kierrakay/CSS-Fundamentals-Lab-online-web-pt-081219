@@ -34,10 +34,10 @@ figcaption {
 
 footer {
   display: block;
- background: green;
 }
 
 div {
+   background: red;
   float: left;
 }
 
