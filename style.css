@@ -35,6 +35,7 @@ figcaption {
 footer {
   display: block;
  background: green;
+ float: left;
 }
 
 
